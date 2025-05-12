@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Licorice';
+  src: url('./assets/fonts/Licorice-Regular.ttf');
+}
+@font-face {
+  font-family: 'Stylish';
+  src: url('./assets/fonts/Stylish-Regular.ttf');
+}
+@font-face {
+  font-family: 'Lora';
+  src: url('./assets/fonts/Lora-VariableFont_wght.ttf');
+}
+@font-face {
+  font-family: 'Lilita';
+  src: url('./assets/fonts/LilitaOne-Regular.ttf');
+}
+@font-face {
+  font-family: 'Outfit';
+  src: url('./assets/fonts/Outfit-VariableFont_wght.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* thead {
+  border-radius: 20px 20px 0 0;
+  background-color: #970747;
+  color: white;
+} */
